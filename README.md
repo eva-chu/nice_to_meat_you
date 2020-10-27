@@ -10,7 +10,7 @@
 		<li>Automatically recommending products.</li>
 		<li>Shopping cart automatically pops up when products added.</li>
 		<li>Full page navigation and animated bar</li>
-		<li>coupon showing only once when entering</li>
+		<li>Coupon showing only once when entering</li>
 		<li>Order tracking and form validation</li>
 		<li>Friendly ordering process</li>
 		<li>RWD & SPA</li>
